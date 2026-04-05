@@ -1,0 +1,23 @@
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Data handling
+numpy
+pandas
+Pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+scikit-learn
+tqdm
+opencv-python
+
+# Jupyter
+notebook
+ipykernel
+ipywidgets
