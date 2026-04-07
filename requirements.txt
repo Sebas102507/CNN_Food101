@@ -21,3 +21,5 @@ opencv-python
 notebook
 ipykernel
 ipywidgets
+
+pytorch-ignite
